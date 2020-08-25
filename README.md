@@ -21,7 +21,7 @@ In terms of security, an attempt has been made to secure as much as possible all
 
 ### Setting up the scenario
 
-The project has three different folders. The first is called API and it has all the necessary functionality to communicate the application and the database. On the other hand, we have another folder called JojosApp that contains the Android Studio project of the application. And finally, we have an SSL folder that contains the necessary certificates for the application to work safely.
+The project has three different folders. The first is called API_Code and it has all the necessary functionality to communicate the application and the database. On the other hand, we have another folder called JojosApp that contains the Android Studio project of the application. And finally, we have an SSL folder that contains the necessary certificates for the application to work safely.
 
 Within the API, we have a file called "bbdd.conf" in which we must put the link provided by the database itself within its web page, which will be different from the one in the example file.
 
