@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">Jojo\'sApp</string>
+    <string name="login_button">Login</string>
+    <string name="register_button">Register</string>
+    <string name="login_name">User:</string>
+    <string name="login_password">Password:</string>
+    <string name="cancelButton">Cancel</string>
+    <string name="content_logo">App\'s logo</string>
+    <string name="welcome_message">Welcome to Jojo\'sApp</string>
+    <string name="register_welcome">Thank you for registering to Jojo\'s App</string>
+    <string name="register_icon">Register\'s Icon</string>
+    <string name="register_email">Email (*):</string>
+    <string name="user_icon">User\'s icon</string>
+    <string name="password_icon">Password\'s icon</string>
+    <string name="toast_reg_req">Set all required values.</string>
+    <string name="toast_reg_pass">Password requires at least 8 characters.</string>
+    <string name="toast_reg_success">User registered successfully.</string>
+    <string name="register_name">User (*):</string>
+    <string name="register_pass">Password (*):</string>
+    <string name="toast_login_fail">Wrong user and password, or unregistered user. Try again or sign up.</string>
+    <string name="toast_login_val">User and password required.</string>
+    <string name="required_tag">(*) Required values.</string>
+    <string name="image_profile">User photo now or user photo from your gallery.</string>
+    <string name="preview">User image preview.</string>
+    <string name="delete_image">Delete image</string>
+    <string name="channel_description">Notification channel for Jojo\'s App</string>
+    <string name="channel_id" translatable="false">JAC</string>
+    <string name="channel_name" translatable="false">Jojo\'s App Channel</string>
+    <string name="checkSaveCredentials">Remember me</string>
+    <string name="toast_reg_fail">Username or email already registered.</string>
+    <string name="toast_login_failure">Cannot reach the server. Please wait a second or try again later.</string>
+    <string name="toast_autologin">You will be redirected to the main page in 5 seconds</string>
+    <string name="add_new_user">Add new user</string>
+    <string name="addUserContacts_id">Username of contact</string>
+    <string name="addUserContacts_name">Name</string>
+    <string name="btn_confirm">Confirm</string>
+    <string name="contacts">Contacts</string>
+    <string name="chat_newprivate">New private chat</string>
+    <string name="chat_newgroup">New group chat</string>
+    <string name="profile_image">Your current profile picture</string>
+    <string name="profile_changepass">Change password:</string>
+    <string name="profile_changeemail">Change email:</string>
+    <string name="profile_currentpass">Current password</string>
+    <string name="profile_newpass">New password</string>
+    <string name="profile_newemail">New email</string>
+    <string name="profile_logout">Logout</string>
+    <string name="profile_delete">Delete profile</string>
+    <string name="message">Message</string>
+    <string name="alert_gps_use">This service requires the use of GPS. ¿Do you want to active it now?</string>
+    <string name="alert_gps_positive_answer">Yes</string>
+    <string name="alert_gps_negative_answer" translatable="false">No</string>
+    <string name="google_api_availability_error">Google Maps API is not available now, please try again later.</string>
+    <string name="title_activity_map">Map</string>
+    <string name="map_snippet_text">This is you!</string>
+    <string name="baseUrl" translatable="false">https://192.168.0.104/api/</string>
+    <string name="encrypted_shared_preferences_name" translatable="false">com.example.jojosapp_encrypted_shared_preferences</string>
+    <string name="passwordChanged">Password changed successfully.</string>
+    <string name="changePasswordError">An error occurred trying to change the password, please try again.</string>
+    <string name="communicationError">Something went wrong trying to communicate to the server. Please check your Internet connection and try again later.</string>
+    <string name="wrongPassword">Wrong password, please try again.</string>
+    <string name="emailChangedSuccessfully">Email changed successfully.</string>
+    <string name="emailRegisteredError">Email already registered.</string>
+    <string name="unexpectedError">There\'s something wrong with the app, please contact the development team with a screenshot of this error.</string>
+    <string name="logoutMessage">User logged out successfully.</string>
+    <string name="userDeleted">User deleted successfully.</string>
+    <string name="addContactFail">Please insert valid username and real name.</string>
+    <string name="register_2pass">Passwords do not match.</string>
+</resources>
